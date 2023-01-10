@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Lobster+Two&display=swap");
 * {
   font-family: 'Montserrat', sans-serif;
   -webkit-box-sizing: border-box;
@@ -27,6 +28,31 @@
   list-style: none;
   margin: 0 13px;
   cursor: pointer;
+}
+
+.navbar .item .dash {
+  border-bottom: 3px solid burlywood;
+}
+
+.feature {
+  background-color: #000;
+  color: white;
+}
+
+.feature h3 {
+  font-family: 'Lobster Two', cursive;
+}
+
+.feature .each img {
+  width: 100%;
+}
+
+.feature .each p {
+  font-size: 15px;
+}
+
+.feature .each span {
+  color: #ddd;
 }
 
 @media only screen and (max-width: 990px) {

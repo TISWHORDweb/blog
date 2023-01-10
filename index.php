@@ -24,13 +24,60 @@
 
                         </ul>
                         <ul class="item">
-                            <li>Blog</li>
+                            <li class="dash">Blog</li>
                             <li>About</li>
                             <li>Contact</li>
                         </ul>
                     </div>
                 </div>
             </nav>
+        </div>
+        <div class="feature">
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="pt-5">
+                        <h3>Featured Posts</h3>
+                        <div class="row pt-4 pb-4">
+                            <div class="col-md-3">
+                                <div class="each">
+                                    <div class="mb-3">
+                                        <img src="img/img2.jpg" alt="">
+                                    </div>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor eaque, eos alias, assumenda excepturi vero ipsa voluptates rerum nisi impedit officiis quod recusandae culpa enim sit rem reprehenderit amet. Accusantium!</p>
+                                    <span>Jan 11, 2023</span>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="each">
+                                    <div class="mb-3">
+                                        <img src="img/img1.jpg" alt="">
+                                    </div>
+                                    <p>Lorem ipsum dolor sit amet a voluptates rerum nisi impedit officiis quod recusandae culpa enim sit rem reprehenderit amet. Accusantium!</p>
+                                    <span>Jan 25, 2023</span>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="each">
+                                    <div class="mb-3">
+                                        <img src="img/img3.jpg" alt="">
+                                    </div>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor eaque, eos alias, assumenda excepturi vero ipsa voluptates rerum nisi impedit officiis quod</p>
+                                    <span>Jan 17, 2023</span>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="each">
+                                    <div class="mb-3">
+                                        <img src="img/img4.jpg" alt="">
+                                    </div>
+                                    <p> Dolor eaque, eos alias, assumenda excepturi vero ipsa voluptates rerum nisi impedit officiis quod recusandae culpa enim sit rem reprehenderit amet. Accusantium!</p>
+                                    <span>Jan 16, 2023</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
