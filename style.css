@@ -94,6 +94,34 @@
   transition: 0.5s;
 }
 
+.grid {
+  background-color: #000;
+  color: white;
+}
+
+.grid h4 {
+  font-family: cursive;
+}
+
+.grid h1 {
+  font-family: 'Lobster Two', cursive;
+}
+
+.grid .each img {
+  width: 100%;
+}
+
+.grid .each p {
+  font-size: 15px;
+}
+
+.grid .each span {
+  color: #ddd;
+  border-bottom: 2px solid #ddd;
+  cursor: pointer;
+  padding: 5px;
+}
+
 @media only screen and (max-width: 990px) {
   .navbar .item {
     display: -webkit-box;

@@ -87,6 +87,100 @@
                 <button>Read more</button>
             </div>
         </div>
+        <div class="pt-5 pb-5 grid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/new(6).jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/img2.jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/new(9).jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/new(11).jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/new(10).jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/new(8).jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/new(7).jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="each">
+                            <div class="mb-3">
+                                <img src="img/img3.jpg" alt="">
+                            </div>
+                            <h4>Travis</h4>
+                            <h1>Everyday Beauty</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias, qui? Tenetur impedit debitis vel aut maiores perferendis provident delectus sed.</p>
+                            <span><b>Read more</b></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>

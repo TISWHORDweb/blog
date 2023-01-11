@@ -79,6 +79,30 @@
         }
     }
 }
+.grid{
+    background-color: #000;
+    color: white;
+    h4{
+        font-family: cursive;
+    }
+    h1{
+        font-family: 'Lobster Two', cursive;
+    }
+    .each{
+        img{
+            width: 100%;
+        }
+        p{
+            font-size: 15px;
+        }
+        span{
+            color: #ddd;
+            border-bottom: 2px solid #ddd;
+            cursor: pointer;
+            padding: 5px;
+        }
+    }
+}
 
 @media only screen and (max-width: 990px) {
     .navbar{
