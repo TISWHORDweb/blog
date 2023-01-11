@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="">
+    <div class="black">
         <div class="">
             <nav class="navbar navbar-expand-lg ">
                 <div class="container-fluid">
@@ -179,6 +179,15 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="top p-5">
+            <div class="container">
+                <hr class="mb-5">
+                <span>Best of</span>
+                <h1 class="">Top Bags of 2020</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <button>Read more</button>
             </div>
         </div>
     </div>
