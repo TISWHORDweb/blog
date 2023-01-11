@@ -138,6 +138,34 @@
         }
     }
 }
+.update{
+    color: white;
+    h1{
+        font-size: 55px;
+        font-family: 'Lobster Two', cursive;
+        margin: 0;
+    }
+    input{
+        background-color: white;
+        padding: 10px;
+        height: 60px;
+        width: 70%;
+        border: none;
+        outline: none;
+    }
+    button{
+        background-color: transparent;
+        border: 2px solid white;
+        padding: 15px 30px;
+        color: white;
+        &:hover{
+            background-color: white;
+            color: #000;
+            cursor: pointer;
+            transition: 0.5s;
+        }
+    }
+}
 
 @media only screen and (max-width: 990px) {
     .navbar{

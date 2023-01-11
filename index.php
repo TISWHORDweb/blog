@@ -190,6 +190,22 @@
                 <button>Read more</button>
             </div>
         </div>
+        <div class=" pt-5 pb-5 update">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7">
+                        <h1 class="mb-3">Subscribe to our newsletter</h1>
+                        <p>Sign up with emails to receive news and updates</p>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="mt-4">
+                            <input type="text" placeholder="Email Address....">
+                            <button>Sign Up</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
