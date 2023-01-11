@@ -38,7 +38,7 @@
                     <div class="pt-5">
                         <h3>Featured Posts</h3>
                         <div class="row pt-4 pb-4">
-                            <div class="col-md-3">
+                            <div class="col-md-3 mb-3">
                                 <div class="each">
                                     <div class="mb-3">
                                         <img src="img/img2.jpg" alt="">
@@ -47,7 +47,7 @@
                                     <span>Jan 11, 2023</span>
                                 </div>
                             </div>
-                            <div class="col-md-3">
+                            <div class="col-md-3 mb-3">
                                 <div class="each">
                                     <div class="mb-3">
                                         <img src="img/img1.jpg" alt="">
@@ -56,7 +56,7 @@
                                     <span>Jan 25, 2023</span>
                                 </div>
                             </div>
-                            <div class="col-md-3">
+                            <div class="col-md-3 mb-3">
                                 <div class="each">
                                     <div class="mb-3">
                                         <img src="img/img3.jpg" alt="">
@@ -65,7 +65,7 @@
                                     <span>Jan 17, 2023</span>
                                 </div>
                             </div>
-                            <div class="col-md-3">
+                            <div class="col-md-3 mb-3">
                                 <div class="each">
                                     <div class="mb-3">
                                         <img src="img/img4.jpg" alt="">
@@ -77,6 +77,14 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="more p-5">
+            <div class="container">
+                <hr class="mb-5">
+                <h1 class="">Silver & Gold</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                <button>Read more</button>
             </div>
         </div>
     </div>

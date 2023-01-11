@@ -55,6 +55,45 @@
   color: #ddd;
 }
 
+.more {
+  background-image: url(img/img5.jpg);
+  height: 500px;
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.more hr {
+  border: 2px solid white;
+  width: 5%;
+  background-color: white;
+}
+
+.more h1 {
+  font-size: 75px;
+  font-family: 'Lobster Two', cursive;
+  margin: 0;
+}
+
+.more button {
+  background-color: transparent;
+  border: 2px solid white;
+  outline: none;
+  padding: 20px 30px;
+  font-weight: 600;
+  color: white;
+  margin: 30px 0;
+}
+
+.more button:hover {
+  background-color: white;
+  color: #000;
+  cursor: pointer;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
 @media only screen and (max-width: 990px) {
   .navbar .item {
     display: -webkit-box;
@@ -64,6 +103,9 @@
     -webkit-box-direction: normal !important;
         -ms-flex-direction: column !important;
             flex-direction: column !important;
+  }
+  .more h1 {
+    font-size: 40px;
   }
 }
 /*# sourceMappingURL=style.css.map */
