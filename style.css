@@ -224,6 +224,35 @@
   font-size: 12px;
 }
 
+.alldetails {
+  color: white;
+}
+
+.alldetails img {
+  width: 100%;
+}
+
+.alldetails .linee {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.alldetails .linee hr {
+  border: 2px solid white;
+  width: 30px;
+  background-color: white;
+}
+
+.overflow {
+  overflow: auto;
+  height: 92.5vh;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
 @media only screen and (max-width: 990px) {
   .navbar .item {
     display: -webkit-box;

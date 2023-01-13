@@ -1,0 +1,62 @@
+.about {
+  color: white;
+}
+
+.about img {
+  width: 100%;
+}
+
+.about .cur {
+  font-family: 'Lobster Two', cursive;
+}
+
+.about p {
+  font-size: 15px;
+}
+
+.clean {
+  text-decoration: none;
+  color: white;
+}
+
+.change {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.details {
+  text-align: left !important;
+}
+
+.details h6 {
+  color: #b7b5b5;
+}
+
+.linee {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.linee hr {
+  border: 2px solid white;
+  width: 30px;
+  background-color: white;
+}
+
+.overflow {
+  overflow: auto;
+  height: 92.5vh;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+/*# sourceMappingURL=new.css.map */

@@ -25,8 +25,8 @@
 
                         </ul>
                         <ul class="item">
-                            <li class="dash"><a href="details.php" class="clean" >Blog</a></li>
-                            <li ><a href="about.php" class="clean" >About</a></li>
+                            <li ><a href="details.php" class="clean" >Blog</a></li>
+                            <li class="dash"><a href="about.php" class="clean" >About</a></li>
                             <li><a href="contact.php" class="clean" >Contact</a></li>
                         </ul>
                     </div>
@@ -34,34 +34,28 @@
             </nav>
         </div>
         <div class="overflow">
-            <div class="pt-5 pb-5 about">
+            <div class="pt-5 pb-5 alldetails">
                 <div class="container">
-                    <center>
-                        <div class="col-md-6 details">
-                            <span>Featured <br> Jul25 - Written by Guest User
-                            </span>
-                            <h1 class=" mt-4 mb-4 cur">Designed and built with all the love in the world by the Bootstrap team.</h1>
-                            <h3 class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus illum neque veritatis possimus esse,</h3>
-                            <div class="mb-3">
-                                <img src="img/new(7).jpg" alt="" width="100%">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="">
+                                <img src="img/new(9).jpg" alt="" width="100%">
                             </div>
+                        </div>
+                        <div class="col-md-6">
                             <div class="linee">
                                 <div class="">
+                                    <hr width="50px">
+                                </div>
+                                <div class="ps-2">
+                                    <span>Founded in 2019</span>
+                                    <h1 class="mt-4">Designed and built with all the love in the world by the Bootstrap team.</h1>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus illum neque veritatis possimus esse, sit modi impedit adipisci, saepe in voluptates minus? Consequatur sit perferendis placeat ab iure obcaecati saepe. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos assumenda eum reprehenderit ullam non? Exercitationem velit autem aut ipsum necessitatibus sequi nisi nemo eligendi illo. Deserunt ipsam ipsum nostrum? Officia? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore excepturi commodi modi voluptatibus perferendis doloremque aspernatur ipsam autem cupiditate, cumque voluptate eligendi, quisquam voluptatem adipisci rem officia impedit harum necessitatibus.</p>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus illum neque veritatis possimus esse, sit modi impedit adipisci, saepe in voluptates minus? Consequatur sit perferendis placeat ab iure obcaecati saepe. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos assumenda eum reprehenderit ullam non? Exercitationem velit autem aut ipsum necessitatibus sequi nisi nemo eligendi illo. Deserunt ipsam ipsum nostrum? Officia? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore excepturi commodi modi voluptatibus perferendis doloremque aspernatur ipsam autem cupiditate, cumque voluptate eligendi, quisquam voluptatem adipisci rem officia impedit harum necessitatibus.</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus illum neque veritatis possimus esse, sit modi impedit adipisci, saepe in voluptates minus? Consequatur sit perferendis placeat ab iure obcaecati saepe. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos assumenda eum reprehenderit ullam non? Exercitationem velit autem aut ipsum necessitatibus sequi nisi nemo eligendi illo. Deserunt ipsam ipsum nostrum? Officia? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore excepturi commodi modi voluptatibus perferendis doloremque aspernatur ipsam autem cupiditate, cumque voluptate eligendi, quisquam voluptatem adipisci rem officia impedit harum necessitatibus.</p>
-
-                                   
                                 </div>
                             </div>
 
-                            <h6 class="pt-5 mt-5">Guest User</h6>
-
                         </div>
-                    </center>
-                    <div class="change mt-5 mb-5">
-                        <h3>Emphatic Designs</h3>
-                        <h3>Top Bags of 2019</h3>
                     </div>
                 </div>
             </div>

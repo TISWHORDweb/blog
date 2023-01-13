@@ -1,0 +1,47 @@
+.about{
+    color: white;
+    img{
+    width: 100%;
+    }
+    .cur{
+        font-family: 'Lobster Two', cursive;
+    }
+    p{
+        font-size: 15px;
+    }
+
+}
+.clean{
+    text-decoration: none;
+    color: white;
+}
+.change{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details{
+    text-align: left !important;
+    h6{
+        color: rgb(183, 181, 181);
+        
+    }
+}
+.linee{
+    display: flex;
+    hr{
+        border: 2px solid white;
+        width: 30px;
+        background-color: white;
+    }
+   
+}
+
+.overflow{
+    overflow: auto;
+    height: 92.5vh;
+}
+
+::-webkit-scrollbar {
+    display: none;
+  }
